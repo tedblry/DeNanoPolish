@@ -1,6 +1,6 @@
 # DeNanoPolish
 
-DeNanoPolish is a comprehensive DNA count analysis pipeline designed to simplify the process of mapping reads to a reference genome and counting genes. This Python-based pipeline leverages the power of several renowned bioinformatics tools, including Minimap2, Samtools, and HTSeq, to deliver accurate and reliable results.
+**DeNanoPolish** is a comprehensive DNA count analysis pipeline designed to simplify the process of mapping reads to a reference genome and counting genes.This Python-based pipeline leverages several bioinformatics tools, including Minimap2, Samtools, and HTSeq, to deliver accurate and reliable results.
 
 ## Table of Contents
 
